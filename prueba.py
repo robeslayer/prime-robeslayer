@@ -1,4 +1,4 @@
-nombre = "robe"
+nombre = "soy"
 apellido = "slayer"
 
 saludo = "hola "+ nombre + " "+ apellido + "¿como estas"
